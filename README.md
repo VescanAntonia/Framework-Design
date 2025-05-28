@@ -82,7 +82,7 @@ This project was built using tools that helped make development fast, efficient,
 
 - Vite – Vite made setting up and running the project really smooth, with super fast refresh and zero-config support for TypeScript and React.
 
-- CodeMirror (@uiw/react-codemirror) – This is what powers the code editing experience. I integrated it with support for HTML, CSS, and JavaScript syntax highlighting depending on which tab is active.
+- CodeMirror (@uiw/react-codemirror) – I chose CodeMirror to give the editor a great coding experience with syntax highlighting that changes automatically whether you’re working on HTML, CSS, or JavaScript. It makes writing code feel smooth and clear.
 
 - CSS (custom pastel styles) – I designed the interface using soft, pastel colors and rounded corners to give it a light and friendly feel.
 
