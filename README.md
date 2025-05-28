@@ -1,4 +1,4 @@
-# Tiny Code Lab
+# 🎨 Tiny Code Lab
 
 **Tiny Code Lab** is a lightweight, browser-based code playground built in React. It allows users to write, preview, upload, and download HTML, CSS, and JavaScript code with a smooth user-friendly interface.
 
