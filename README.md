@@ -41,16 +41,23 @@
 
 7. Open the project in your browser:
 ```
-     http://localhost:5173
+   http://localhost:5173
 ```
    
 9. Use the CodePlayground component in your React app:
 ```
   import { CodePlayground } from './CodePlayground';
   <CodePlayground
-  html="<h1>Hello</h1>"
-  css="h1 { color: blue; }"
-  js="console.log('Hello from JS!');"
+     html="<h1>Hello</h1>"
+     css="h1 { color: blue; }"
+     js="console.log('Hello from JS!');"
   />
 ```
+
+## 🛠️ Future Enhancements
+
+- Error Handling inside the preview panel in real-time
+- Multi-language Support
+- Export as ZIP for big source code
+- Add a copy all code button for for quickly copying all code
 
