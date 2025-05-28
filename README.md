@@ -78,7 +78,7 @@ This project was built using tools that helped make development fast, efficient,
 
 - React – I used React to build the component structure and handle user interactions, like switching tabs or updating code.
 
-- TypeScript – I added TypeScript to catch bugs early and clearly define how props and state should behave in the components.
+- TypeScript – I added TypeScript to clearly define how props and state should behave in the components.
 
 - Vite – Vite made setting up and running the project really smooth, with super fast refresh and zero-config support for TypeScript and React.
 
