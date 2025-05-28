@@ -74,7 +74,7 @@ It exemplifies how a small, well-scoped component can support learning, experime
 ---
 
 ## 🔧 Technologies Used
-This project leverages a modern and lightweight tech stack tailored for rapid development and seamless user experience:
+This project was built using tools that helped make development fast, efficient, and enjoyable:
 
 - React – I used React to build the component structure and handle user interactions, like switching tabs or updating code.
 
