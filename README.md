@@ -15,7 +15,7 @@
 
 ## 📦 Component Overview
 
-This project is a custom reusable component, <CodePlayground />, designed from scratch as part of a Proof-of-Concept (PoC) assignment. It demonstrates how to build modular, component-based user interfaces that allow users to:
+This project is a custom reusable component, <CodePlayground />, designed from scratch as a Proof-of-Concept (PoC). It demonstrates how to build modular, component-based user interfaces that allow users to:
 
 - Edit code in an isolated and focused UI.
 
