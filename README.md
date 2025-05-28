@@ -15,10 +15,10 @@
 
 ## 📁 Project Structure
 
-- App.tsx # Root app entry, includes Tiny Code Lab heading
-- CodePlayground.tsx # Main logic for tabs, preview, upload/download
-- CodeEditor.tsx # CodeMirror wrapper for syntax-highlighted editing
-- App.css # Global styles
+- App.tsx - Root app entry, includes Tiny Code Lab heading
+- CodePlayground.tsx - Main logic for tabs, preview, upload/download
+- CodeEditor.tsx - CodeMirror wrapper for syntax-highlighted editing
+- App.css - Global styles
 
 ---
 
