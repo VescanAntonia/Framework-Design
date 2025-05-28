@@ -93,5 +93,5 @@ This project was built using tools that helped make development fast, efficient,
 - Error Handling inside the preview panel in real-time
 - Multi-language Support
 - Export as ZIP for big source code
-- Add a copy all code button for for quickly copying all code
+- Add a 'Copy All Code' button for for quickly copying all code
 
