@@ -18,4 +18,30 @@
 - App.tsx # Root app entry, includes Tiny Code Lab heading
 - CodePlayground.tsx # Main logic for tabs, preview, upload/download
 - CodeEditor.tsx # CodeMirror wrapper for syntax-highlighted editing
-- App.css # (Optional) Global styles
+- App.css # Global styles
+
+---
+
+## 🚀 Installation & Usage
+
+1. Clone or download this repository:
+   git clone https://github.com/your-username/tiny-code-lab.git
+   
+2. Install the dependencies:
+  cd tiny-code-lab
+  npm install
+
+3. Start the development server:
+  npm run dev
+
+4. Open the project in your browser:
+     http://localhost:5173
+   
+5. Use the CodePlayground component in your React app:
+  import { CodePlayground } from './CodePlayground';
+  <CodePlayground
+  html="<h1>Hello</h1>"
+  css="h1 { color: blue; }"
+  js="console.log('Hello from JS!');"
+  />
+
