@@ -29,20 +29,28 @@
    git clone https://github.com/your-username/tiny-code-lab.git
    ```
 3. Install the dependencies:
+```
   cd tiny-code-lab
   npm install
+```
 
-4. Start the development server:
+5. Start the development server:
+```
   npm run dev
+```
 
-5. Open the project in your browser:
+7. Open the project in your browser:
+   ```
      http://localhost:5173
+   ```
    
-6. Use the CodePlayground component in your React app:
+9. Use the CodePlayground component in your React app:
+```
   import { CodePlayground } from './CodePlayground';
   <CodePlayground
   html="<h1>Hello</h1>"
   css="h1 { color: blue; }"
   js="console.log('Hello from JS!');"
   />
+```
 
