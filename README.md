@@ -54,6 +54,36 @@
   />
 ```
 
+
+## 🔧 Technologies Used
+This project leverages a modern and lightweight tech stack tailored for rapid development and seamless user experience:
+
+- React – I used React to build the component structure and handle user interactions, like switching tabs or updating code.
+
+- TypeScript – I added TypeScript to catch bugs early and clearly define how props and state should behave in the components.
+
+- Vite – Vite made setting up and running the project really smooth, with super fast refresh and zero-config support for TypeScript and React.
+
+- CodeMirror (@uiw/react-codemirror) – This is what powers the code editing experience. I integrated it with support for HTML, CSS, and JavaScript syntax highlighting depending on which tab is active.
+
+- CSS (custom pastel styles) – I designed the interface using soft, pastel colors and rounded corners to give it a light and friendly feel.
+
+
+## 📦 Component Type
+
+This project is a custom reusable component, <CodePlayground />, designed from scratch as part of a Proof-of-Concept (PoC) assignment. It demonstrates how to build modular, component-based user interfaces that allow users to:
+
+- Edit code in an isolated and focused UI.
+
+- See changes instantly in a live preview pane.
+
+- Upload existing code files for editing.
+
+- Download their code in standard HTML, CSS, and JS formats.
+
+It exemplifies how a small, well-scoped component can support learning, experimentation, and rapid prototyping directly in the browser.
+
+
 ## 🛠️ Future Enhancements
 
 - Error Handling inside the preview panel in real-time
