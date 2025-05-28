@@ -71,6 +71,7 @@ It exemplifies how a small, well-scoped component can support learning, experime
   />
 ```
 
+---
 
 ## 🔧 Technologies Used
 This project leverages a modern and lightweight tech stack tailored for rapid development and seamless user experience:
@@ -85,6 +86,7 @@ This project leverages a modern and lightweight tech stack tailored for rapid de
 
 - CSS (custom pastel styles) – I designed the interface using soft, pastel colors and rounded corners to give it a light and friendly feel.
 
+---
 
 ## 🛠️ Future Enhancements
 
