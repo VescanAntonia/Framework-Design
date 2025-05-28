@@ -25,9 +25,9 @@
 ## 🚀 Installation & Usage
 
 1. Clone or download this repository:
-   ```
+```
    git clone https://github.com/your-username/tiny-code-lab.git
-   ```
+```
 3. Install the dependencies:
 ```
   cd tiny-code-lab
@@ -40,9 +40,9 @@
 ```
 
 7. Open the project in your browser:
-   ```
+```
      http://localhost:5173
-   ```
+```
    
 9. Use the CodePlayground component in your React app:
 ```
