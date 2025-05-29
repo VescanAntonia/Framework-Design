@@ -1,6 +1,7 @@
 # 🎨 Tiny Code Lab
 
-![Screenshot (15)]([https://github.com/user-attachments/assets/35f69789-4762-4a14-bd7d-27f8a3baec3c](https://github.com/VescanAntonia/Framework-Design/blob/main/Screenshot%20(15).png))
+![Screenshot (15)](https://github.com/user-attachments/assets/6d931cdd-0d87-4d1b-bf0c-3cb23c3c0f7c)
+
 
 
 **Tiny Code Lab** is a lightweight, browser-based code playground built in React. It allows users to write, preview, upload, and download HTML, CSS, and JavaScript code with a smooth user-friendly interface.
